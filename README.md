@@ -52,14 +52,14 @@ Modern fish farming faces challenges like high labor cost, water quality monitor
 
 ## 🧭 Block Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4dabe02-3635-4427-952f-59b2edf7af6e" />
+<img width="822" height="402" alt="image" src="https://github.com/user-attachments/assets/d4dabe02-3635-4427-952f-59b2edf7af6e" />
 
 
 ---
 
 ## 🔌 Circuit Schematic
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7cf06b38-72fc-4246-b943-66a5258bf3e7" />
+<img width="622" height="302" alt="image" src="https://github.com/user-attachments/assets/7cf06b38-72fc-4246-b943-66a5258bf3e7" />
 
 
 ---
@@ -80,7 +80,7 @@ The code reads values from all sensors and checks thresholds:
 
 ## 🖥️ User Interface
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3bf90f8a-7e35-42d1-9dd0-a26f0eec93db" />
+<img width="624" height="936" alt="image" src="https://github.com/user-attachments/assets/3bf90f8a-7e35-42d1-9dd0-a26f0eec93db" />
 
 
 ---
@@ -98,15 +98,15 @@ Real-time values observed over 7 days:
 🔬 Test Results:
 
 - **Pond Water**  
-<img width="947" height="453" alt="image" src="https://github.com/user-attachments/assets/b91f05cc-c9db-4b2b-9d18-4f54868d6ec5" />
+<img width="722" height="303" alt="image" src="https://github.com/user-attachments/assets/b91f05cc-c9db-4b2b-9d18-4f54868d6ec5" />
 
 
 - **Detergent-Contaminated Water**  
-<img width="947" height="453" alt="image" src="https://github.com/user-attachments/assets/f88ee3c3-795f-406d-b568-d91360c06ffb" />
+<img width="722" height="303" alt="image" src="https://github.com/user-attachments/assets/f88ee3c3-795f-406d-b568-d91360c06ffb" />
 
 
 - **Combined Result**  
-<img width="805" height="310" alt="image" src="https://github.com/user-attachments/assets/becc747a-b4de-4b22-8c3b-442bf7387ccb" />
+<img width="722" height="303" alt="image" src="https://github.com/user-attachments/assets/becc747a-b4de-4b22-8c3b-442bf7387ccb" />
 
 
 ---
