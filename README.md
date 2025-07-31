@@ -52,7 +52,7 @@ Modern fish farming faces challenges like high labor cost, water quality monitor
 
 ## 🧭 Block Diagram
 
-<img width="822" height="402" alt="image" src="https://github.com/user-attachments/assets/d4dabe02-3635-4427-952f-59b2edf7af6e" />
+<img width="622" height="302" alt="image" src="https://github.com/user-attachments/assets/d4dabe02-3635-4427-952f-59b2edf7af6e" />
 
 
 ---
