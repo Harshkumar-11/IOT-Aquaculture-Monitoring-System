@@ -1,0 +1,8 @@
+
+{
+  "temperature": "DS18B20",
+  "pH": "SEN0161",
+  "turbidity": "SEN0189",
+  "TDS": "SEN0244",
+  "DO": "SKU1356249"
+}
