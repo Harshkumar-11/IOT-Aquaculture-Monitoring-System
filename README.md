@@ -43,7 +43,7 @@ Modern fish farming faces challenges like high labor cost, water quality monitor
 
 ## 🏗️ System Architecture
 
-![System Architecture](Images/system_architecture.png)
+images/Block Diagram.png
 
 > Sensors collect data → Arduino processes → Sends to dashboard via Wi-Fi
 
