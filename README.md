@@ -43,7 +43,8 @@ Modern fish farming faces challenges like high labor cost, water quality monitor
 
 ## 🏗️ System Architecture
 
-images/Block Diagram.png
+<img width="822" height="402" alt="image" src="https://github.com/user-attachments/assets/d18d561e-7b05-465e-957e-df5434aa02e2" />
+
 
 > Sensors collect data → Arduino processes → Sends to dashboard via Wi-Fi
 
@@ -51,7 +52,6 @@ images/Block Diagram.png
 
 ## 🧭 Block Diagram
 
-![Block Diagram](Images/Block Diagram.png)
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4dabe02-3635-4427-952f-59b2edf7af6e" />
 
 
@@ -59,7 +59,8 @@ images/Block Diagram.png
 
 ## 🔌 Circuit Schematic
 
-![Schematic](Images/schematic.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7cf06b38-72fc-4246-b943-66a5258bf3e7" />
+
 
 ---
 
@@ -79,7 +80,8 @@ The code reads values from all sensors and checks thresholds:
 
 ## 🖥️ User Interface
 
-![User Interface](Images/User interface.png)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3bf90f8a-7e35-42d1-9dd0-a26f0eec93db" />
+
 
 ---
 
@@ -96,13 +98,16 @@ Real-time values observed over 7 days:
 🔬 Test Results:
 
 - **Pond Water**  
-  ![Pond Water Result](Images/Pond Water Result.jpg)
+<img width="947" height="453" alt="image" src="https://github.com/user-attachments/assets/b91f05cc-c9db-4b2b-9d18-4f54868d6ec5" />
+
 
 - **Detergent-Contaminated Water**  
-  ![Detergant Water Result](Images/Detergant Water Result.jpg)
+<img width="947" height="453" alt="image" src="https://github.com/user-attachments/assets/f88ee3c3-795f-406d-b568-d91360c06ffb" />
+
 
 - **Combined Result**  
-  ![Results](Images/Results.jpg)
+<img width="805" height="310" alt="image" src="https://github.com/user-attachments/assets/becc747a-b4de-4b22-8c3b-442bf7387ccb" />
+
 
 ---
 
