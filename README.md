@@ -52,6 +52,8 @@ images/Block Diagram.png
 ## 🧭 Block Diagram
 
 ![Block Diagram](Images/Block Diagram.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4dabe02-3635-4427-952f-59b2edf7af6e" />
+
 
 ---
 
