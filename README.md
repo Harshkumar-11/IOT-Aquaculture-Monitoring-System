@@ -1,7 +1,6 @@
 
 # 🌊 IoT-Based Smart Fish Farming System for Sustainable Aquaculture
 
-![Project Banner](Images/prototype_photo.jpg)
 
 ## 🧠 Abstract
 Modern fish farming faces challenges like high labor cost, water quality monitoring issues, and fish mortality due to environmental imbalance. This project proposes a smart aquaculture system using **IoT-based sensors** to monitor real-time **temperature, pH, turbidity, TDS**, and **dissolved oxygen** levels. Data is transmitted via Wi-Fi and viewed on a centralized dashboard, enabling proactive fish pond management.
