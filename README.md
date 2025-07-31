@@ -80,7 +80,7 @@ The code reads values from all sensors and checks thresholds:
 
 ## 🖥️ User Interface
 
-<img width="424" height="636" alt="image" src="https://github.com/user-attachments/assets/3bf90f8a-7e35-42d1-9dd0-a26f0eec93db" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/3bf90f8a-7e35-42d1-9dd0-a26f0eec93db" />
 
 
 ---
