@@ -40,6 +40,13 @@ Modern fish farming faces challenges like high labor cost, water quality monitor
 - Wi-Fi connection (local or cloud)
 
 ---
+## 🧪 Prototype Overview
+
+A functional prototype of the smart aquaculture system was developed using the specified hardware components. The prototype includes all sensors integrated with the Arduino UNO and Wi-Fi module, mounted on a compact board. Real-time data is successfully transmitted to a dashboard interface, demonstrating responsive monitoring and alert mechanisms. This working model validates the core concept and showcases the feasibility of deploying the system in real-world fish farming environments for enhanced efficiency and sustainability.
+
+<img width="711" height="920" alt="image" src="https://github.com/user-attachments/assets/6d272cd9-44f1-495b-a66b-1d690088bf62" />
+
+---
 
 ## 🏗️ System Architecture
 
